@@ -1,13 +1,13 @@
 [submodule "third_party/googletest"]
 	path = third_party/googletest
-	url = https://github.com/google/googletest
+	url = https://hub.fastgit.org/google/googletest
         ignore = untracked
 [submodule "proto/openconfig/gnmi"]
 	path = proto/openconfig/gnmi
-	url = https://github.com/openconfig/gnmi.git
+	url = https://hub.fastgit.org/openconfig/gnmi.git
 [submodule "proto/openconfig/public"]
 	path = proto/openconfig/public
-	url = https://github.com/openconfig/public.git
+	url = https://hub.fastgit.org/openconfig/public.git
 [submodule "proto/p4runtime"]
 	path = proto/p4runtime
-	url = https://github.com/p4lang/p4runtime.git
+	url = https://hub.fastgit.org/p4lang/p4runtime.git
